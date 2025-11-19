@@ -1,0 +1,12 @@
+room_number,room_type,price,status
+1,Single,1200,Available
+2,Single,1200,Available
+3,Double,2000,Available
+4,Double,2000,Available
+5,Deluxe,3500,Available
+6,Deluxe,3500,Available
+7,Suite,5000,Available
+8,Suite,5000,Available
+9,Superior,2800,Available
+10,Superior,2800,Available
+11,Executive,4000,Available
